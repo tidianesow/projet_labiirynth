@@ -21,18 +21,18 @@ Les objectifs du projet sont :
 - (Optionnel) Créer une interface graphique avec JavaFX pour visualiser les résultats.
 
 ## 3. Arborescence du Projet
-
- bin
-│   └── src
-│       ├── MazeApp.class
-│       ├── Maze.class
-│       └── MazeSolver.class
-├── maze.txt
-└── src
-    ├── MazeApp.java
-    ├── Maze.java
-    ├── MazeSolver.java
-    └── maze.txt
+    
+     bin
+    │   └── src
+    │       ├── MazeApp.class
+    │       ├── Maze.class
+    │       └── MazeSolver.class
+    ├── maze.txt
+    └── src
+        ├── MazeApp.java
+        ├── Maze.java
+        ├── MazeSolver.java
+        └── maze.txt
 
 
 ## 4. Méthodologie
@@ -52,14 +52,14 @@ Le labyrinthe est correctement chargé et les deux algorithmes résolvent le pro
 
 Voici un exemple de fichier maze.txt :
 
-##########
-#S#      #
-# # #####
-# # #   #
-#   # #  #
-##### #  #
-#      E #
-##########
+      ##########
+      #S#      #
+      # # #####
+      # # #   #
+      #   # #  #
+      ##### #  #
+      #      E #
+      ##########
 
     S représente le point de départ.
     E représente la sortie.
