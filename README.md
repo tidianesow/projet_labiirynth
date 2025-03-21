@@ -1,9 +1,10 @@
 # Projet : Résolution de Labyrinthe
 
 ## Équipe
-- Tidiane
-- [Nom de l'autre membre 1]
-- [Nom de l'autre membre 2]
+ - Tidiane sow
+ - Abdou Aziz kandji
+ - Diaga Ngom
+
 
 ## Module
 Algorithmes et Structures de données
@@ -66,8 +67,3 @@ Voici un exemple de fichier maze.txt :
     # représente un mur.
     = représente un passage.
 
-8. Contributeurs
-
-    Tidiane sow
-    Abdou Aziz kandji
-    Diaga Ngom
