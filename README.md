@@ -52,18 +52,21 @@ Le labyrinthe est correctement chargé et les deux algorithmes résolvent le pro
 6. Exemple de fichier maze.txt
 
 Voici un exemple de fichier maze.txt :
+#####
 
-      ##########
-      #S#      #
-      # # #####
-      # # #   #
-      #   # #  #
-      ##### #  #
-      #      E #
-      ##########
+#S==E#
+
+#=##=#
+
+#====#
+
+#####
 
     S représente le point de départ.
     E représente la sortie.
     # représente un mur.
     = représente un passage.
-
+soucrce ou site 
+https://fr.wikipedia.org/wiki/Algorithme_de_parcours_en_profondeur
+https://fr.wikipedia.org/wiki/Algorithme_de_parcours_en_largeur
+https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
